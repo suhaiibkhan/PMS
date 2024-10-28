@@ -1,4 +1,4 @@
-# PROJECT MANAGEMENT SYSTEM (PMS)
+# PROJECT MANAGEMENT SYSTEM
 
 **Built with Python and Django.**
 
